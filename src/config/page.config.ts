@@ -1,0 +1,3 @@
+class PAGE {
+	HOME = '/'
+}
